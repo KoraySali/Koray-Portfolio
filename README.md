@@ -3,12 +3,11 @@
 Below is a description and image of some of the projects and work I have completed throughout my career.
 
 # [Project 1: Deep Learning Wildfire Detection System](https://github.com/KoraySali/Dissertation_Archive/blob/main/README.md)
-* Created multiple CNN-Machine Learning ensembled models from scratch achivieng no less than 94% accuracy for wildfire and smoke detection.
-* Ability to identify from macro and micro level imagery, such as: satellites, CCTV, mobile phone or camera imagery.
-* Front-end webpage created for the utility of the deep learning model from wildfire surveillance teams when needed at any time.
-* Connected external camera feeds, such as: webcams and CCTV video feeds to simulate and leverage existing low-level technology camera systems that wildfire teams already tend to use.
-* Flask PyCharm, Jupyter Notebook and Google Colaboratory were the platforms used, especially Google Colaboratory for it's external GPU use.
-* Preprocessed, engineered and scraped images to be interpreted correctly by the CNN-based models.
-* Compared pre-existing architectures such as: ResNet152, DenseNet201, VGG16, Xception where my CNN-SVM model outperformed DenseNet201 and Xception, achieving 95.79% accuracy while DeseNet201 achieved 94.17% and Xception achieved 89.33% respectively.
-
+* Developed CNN-ML ensemble models achieving consistent 94%+ accuracy for wildfire and smoke detection.
+* Proficient in analysing macro and micro imagery (satellites, CCTV, mobile cameras).
+* Created user-friendly front-end for on-demand deep learning model usage by wildfire surveillance teams.
+* Integrated external camera feeds (webcams, CCTV) to enhance wildfire teams' existing camera systems.
+* Employed Flask, PyCharm, Jupyter, and Google Colab, leveraging external GPU support.
+* Processed, engineered, and optimised images for accurate interpretation by CNN models.
+* Compared ResNet152, DenseNet201, VGG16, Xception; my CNN-SVM outperformed DenseNet201 (94.17%) and Xception (89.33%) with 95.79% accuracy.
 ![](https://github.com/KoraySali/Koray-Portfolio/blob/main/ML%20Ensembled%20Test%20Accuracies.png?raw=true)
