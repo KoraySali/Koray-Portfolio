@@ -10,4 +10,5 @@ Below is a description and image of some of the projects and work I have complet
 * Employed Flask, PyCharm, Jupyter, and Google Colab, leveraging external GPU support.
 * Processed, engineered, and optimised images for accurate interpretation by CNN models.
 * Compared ResNet152, DenseNet201, VGG16, Xception; my CNN-SVM outperformed DenseNet201 (94.17%) and Xception (89.33%) with 95.79% accuracy.
+
 ![](https://github.com/KoraySali/Koray-Portfolio/blob/main/ML%20Ensembled%20Test%20Accuracies.png?raw=true)
