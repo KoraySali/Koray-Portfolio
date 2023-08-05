@@ -1,4 +1,4 @@
-# Koray Saliah
+# Koray Saliah Portfolio
 
 # [Project 1: Deep Learning Wildfire Detection System](https://github.com/KoraySali/Dissertation_Archive/blob/main/README.md)
 * Created multiple CNN-Machine Learning ensembled models from scratch achivieng no less than 94% accuracy for wildfire and smoke detection.
