@@ -10,4 +10,4 @@ Data Science and Analytics Portfolio
 * Preprocessed, engineered and scraped images to be interpreted correctly by the CNN-based models.
 * Compared pre-existing architectures such as: ResNet152, DenseNet201, VGG16, Xception where my CNN-SVM model outperformed DenseNet201 and Xception, achieving 95.79% accuracy while DeseNet201 achieved 94.17% and Xception achieved 89.33% respectively.
 
-![](https://github.com/KoraySali/Dissertation_Archive/blob/16d94bc2bca7b913d665b2b80033a32adc08372e/ML%20Ensembled%20Test%20Accuracies.png)
+![](https://github.com/KoraySali/Koray-Portfolio/blob/ee39e33aaec3d664d578727a9b6e6c3f3aa4acaa/ML%20Ensembled%20Test%20Accuracies.png)
