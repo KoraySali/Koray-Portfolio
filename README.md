@@ -1,7 +1,7 @@
 # Koray Saliah Portfolio
 Data Science and Analytics Portfolio
 
-# [Project 1: Deep Learning Wildfire Detection System] (https://github.com/KoraySali/Dissertation_Archive/blob/main/README.md)
+# [Project 1: Deep Learning Wildfire Detection System](https://github.com/KoraySali/Dissertation_Archive/blob/main/README.md)
 * Created multiple CNN-Machine Learning ensembled models from scratch achivieng no less than 94% accuracy for wildfire and smoke detection.
 * Ability to identify from macro and micro level imagery, such as: satellites, CCTV, mobile phone or camera imagery.
 * Front-end webpage created for the utility of the deep learning model from wildfire surveillance teams when needed at any time.
