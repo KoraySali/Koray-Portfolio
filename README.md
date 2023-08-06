@@ -14,3 +14,10 @@ Below is a description and image of some of the projects and work I have complet
 ![](https://github.com/KoraySali/Koray-Portfolio/blob/main/ML%20Ensembled%20Test%20Accuracies.png?raw=true)
 
 # [Project 2: Taxi Fare Prediction Regression](https://github.com/KoraySali/Taxi-Fare-Prediction/blob/main/README.md)
+* Developed a precise taxi fare prediction model achieving an RMSE of 1.5~ for Bournemouth and Dorset journeys.
+* Conducted extensive model comparison, showcasing Gradient Boosting Regressor, Random Forest, XGBRegressor, MLPRegressor and 6 other models each with competitive RMSE scores.
+* Utilised advanced data analysis techniques for feature extraction, enhancing model performance through data-driven insights.
+* Employed error analysis to identify and address outliers, resulting in heightened model accuracy and dependability.
+* Executed the project adhering to the CRISP-DM methodology framework, ensuring a systematic and structured approach.
+* Deployed the Gradient Boosting Regressor as the optimal choice, balancing accuracy and efficiency.
+* Leveraged correlations between engineered features and fare predictions to gain valuable data-driven insights, iteratively refining model performance.
