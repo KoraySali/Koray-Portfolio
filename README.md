@@ -13,4 +13,4 @@ Below is a description and image of some of the projects and work I have complet
 
 ![](https://github.com/KoraySali/Koray-Portfolio/blob/main/ML%20Ensembled%20Test%20Accuracies.png?raw=true)
 
-# [Project 2: Taxi Fare Prediction Regression](https://github.com/KoraySali/Taxi-Fare-Prediction)
+# [Project 2: Taxi Fare Prediction Regression](https://github.com/KoraySali/Taxi-Fare-Prediction/blob/main/README.md)
