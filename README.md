@@ -21,3 +21,5 @@ Below is a description and image of some of the projects and work I have complet
 * Executed the project adhering to the CRISP-DM methodology framework, ensuring a systematic and structured approach.
 * Deployed the Gradient Boosting Regressor as the optimal choice, balancing accuracy and efficiency.
 * Leveraged correlations between engineered features and fare predictions to gain valuable data-driven insights, iteratively refining model performance.
+
+![](https://github.com/KoraySali/Taxi-Fare-Prediction/blob/main/Feature%20dropping%20curve%20for%20RandomForestRegressor.png?raw=true)
