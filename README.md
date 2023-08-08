@@ -1,6 +1,6 @@
 # Koray Saliah Portfolio
 
-**This portfolio contains descriptions, hyperlinks and images for the projects and work I have completed throughout my career. To see further visualisations and detail click the project links.**
+This portfolio contains descriptions, hyperlinks and images for the projects and work I have completed throughout my career. To see further visualisations and detail click the project links.
 
 # [Project 1: Deep Learning Wildfire Detection System](https://github.com/KoraySali/Dissertation_Archive/blob/main/README.md)
 * Developed CNN-ML ensemble models achieving consistent 94%+ accuracy for wildfire and smoke detection.
