@@ -11,6 +11,12 @@ Below is a description and image of some of the projects and work I have complet
 * Processed, engineered, and optimised images for accurate interpretation by CNN models.
 * Compared ResNet152, DenseNet201, VGG16, Xception; my CNN-SVM outperformed DenseNet201 (94.17%) and Xception (89.33%) with 95.79% accuracy.
 
+<p align="center">
+  <img alt="Light" src="https://github.com/KoraySali/Taxi-Fare-Prediction/blob/main/Feature%20dropping%20curve%20for%20RandomForestRegressor.png?raw=true" width="45%" height="50%">
+&nbsp; &nbsp; &nbsp; &nbsp;
+  <img alt="Dark" src="https://github.com/KoraySali/Dissertation_Archive/blob/main/Validation%20Accuracy.png?raw=true" width="45%" height="50%>
+</p>
+
 ![](https://github.com/KoraySali/Koray-Portfolio/blob/main/ML%20Ensembled%20Test%20Accuracies.png?raw=true)
 
 # [Project 2: Taxi Fare Prediction Regression](https://github.com/KoraySali/Taxi-Fare-Prediction/blob/main/README.md)
@@ -23,11 +29,5 @@ Below is a description and image of some of the projects and work I have complet
 * Leveraged correlations between engineered features and fare predictions to gain valuable data-driven insights, iteratively refining model performance.
 
 ![](https://github.com/KoraySali/Taxi-Fare-Prediction/blob/main/Feature%20dropping%20curve%20for%20RandomForestRegressor.png?raw=true)
-
-<p align="center">
-  <img alt="Light" src="https://github.com/KoraySali/Taxi-Fare-Prediction/blob/main/Feature%20dropping%20curve%20for%20RandomForestRegressor.png?raw=true" width="45%">
-&nbsp; &nbsp; &nbsp; &nbsp;
-  <img alt="Dark" src="https://github.com/KoraySali/Koray-Portfolio/blob/main/ML%20Ensembled%20Test%20Accuracies.png?raw=true" width="45%">
-</p>
 
 # [Project 3: UK Car Accident Visualisations](https://github.com/KoraySali/Car-Accident-Visualisations/blob/master/README.md)
