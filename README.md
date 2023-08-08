@@ -23,3 +23,5 @@ Below is a description and image of some of the projects and work I have complet
 * Leveraged correlations between engineered features and fare predictions to gain valuable data-driven insights, iteratively refining model performance.
 
 ![](https://github.com/KoraySali/Taxi-Fare-Prediction/blob/main/Feature%20dropping%20curve%20for%20RandomForestRegressor.png?raw=true)
+
+# [Project 3: UK Car Accident Visualisations](https://github.com/KoraySali/Car-Accident-Visualisations/blob/main/README.md)
