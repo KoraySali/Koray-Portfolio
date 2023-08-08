@@ -12,9 +12,9 @@ Below is a description and image of some of the projects and work I have complet
 * Compared ResNet152, DenseNet201, VGG16, Xception; my CNN-SVM outperformed DenseNet201 (94.17%) and Xception (89.33%) with 95.79% accuracy.
 
 <p align="center">
-  <img alt="Light" src="https://github.com/KoraySali/Koray-Portfolio/blob/main/ML%20Ensembled%20Test%20Accuracies.png?raw=true" width="45" height="50">
+  <img alt="Light" src="https://github.com/KoraySali/Koray-Portfolio/blob/main/ML%20Ensembled%20Test%20Accuracies.png?raw=true" width="45" height="70">
 &nbsp; &nbsp; &nbsp; &nbsp;
-  <img alt="Dark" src="https://github.com/KoraySali/Dissertation_Archive/blob/main/Validation%20Accuracy.png?raw=true" width="45" height="10">
+  <img alt="Dark" src="https://github.com/KoraySali/Dissertation_Archive/blob/main/Validation%20Accuracy.png?raw=true" width="45" height="70">
 </p>
 
 ![](https://github.com/KoraySali/Koray-Portfolio/blob/main/ML%20Ensembled%20Test%20Accuracies.png?raw=true)
