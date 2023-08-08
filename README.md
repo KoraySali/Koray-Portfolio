@@ -13,8 +13,8 @@ Below is a description and image of some of the projects and work I have complet
 
 <p align="center">
   <img alt="Light" src="https://github.com/KoraySali/Koray-Portfolio/blob/main/ML%20Ensembled%20Test%20Accuracies.png?raw=true" width="450" height="400">
-&nbsp; &nbsp; &nbsp; &nbsp;
-  <img alt="Dark" src="https://github.com/KoraySali/Dissertation_Archive/blob/main/Validation%20Accuracy.png?raw=true" width="300" height="400">
+<!--- &nbsp; &nbsp; &nbsp; &nbsp;
+  <img alt="Dark" src="https://github.com/KoraySali/Dissertation_Archive/blob/main/Validation%20Accuracy.png?raw=true" width="300" height="400"> --->
 </p>
 
 # [Project 2: Taxi Fare Prediction Regression](https://github.com/KoraySali/Taxi-Fare-Prediction/blob/main/README.md)
