@@ -14,7 +14,7 @@ Below is a description and image of some of the projects and work I have complet
 <p align="center">
   <img alt="Light" src="https://github.com/KoraySali/Taxi-Fare-Prediction/blob/main/Feature%20dropping%20curve%20for%20RandomForestRegressor.png?raw=true" width="45%" height="50%">
 &nbsp; &nbsp; &nbsp; &nbsp;
-  <img alt="Dark" src="https://github.com/KoraySali/Dissertation_Archive/blob/main/Validation%20Accuracy.png?raw=true" width="45%" height="50%>
+  <img alt="Dark" src="https://github.com/KoraySali/Dissertation_Archive/blob/main/Validation%20Accuracy.png?raw=true" width="45%" height="10%>
 </p>
 
 ![](https://github.com/KoraySali/Koray-Portfolio/blob/main/ML%20Ensembled%20Test%20Accuracies.png?raw=true)
