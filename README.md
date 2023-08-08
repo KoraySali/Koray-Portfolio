@@ -1,4 +1,4 @@
-<h1 align="center"> Koray Saliah Portfolio </h1>
+# Koray Saliah Portfolio
 
 This portfolio contains descriptions, hyperlinks and images for the projects and work I have completed throughout my career. To see further visualisations and detail click the project links.
 
