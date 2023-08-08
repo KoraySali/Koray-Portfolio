@@ -24,7 +24,10 @@ Below is a description and image of some of the projects and work I have complet
 
 ![](https://github.com/KoraySali/Taxi-Fare-Prediction/blob/main/Feature%20dropping%20curve%20for%20RandomForestRegressor.png?raw=true)
 
---- | ---
-![](https://github.com/KoraySali/Taxi-Fare-Prediction/blob/main/Feature%20dropping%20curve%20for%20RandomForestRegressor.png?raw=true) | ![](https://github.com/KoraySali/Koray-Portfolio/blob/main/ML%20Ensembled%20Test%20Accuracies.png?raw=true)
+<p align="center">
+  <img alt="Light" src="https://github.com/KoraySali/Taxi-Fare-Prediction/blob/main/Feature%20dropping%20curve%20for%20RandomForestRegressor.png?raw=true" width="45%">
+&nbsp; &nbsp; &nbsp; &nbsp;
+  <img alt="Dark" src="https://github.com/KoraySali/Koray-Portfolio/blob/main/ML%20Ensembled%20Test%20Accuracies.png?raw=true" width="45%">
+</p>
 
 # [Project 3: UK Car Accident Visualisations](https://github.com/KoraySali/Car-Accident-Visualisations/blob/master/README.md)
