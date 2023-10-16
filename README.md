@@ -39,7 +39,7 @@ This portfolio contains descriptions, hyperlinks and images for the projects and
 * Save the resulting maps and visualisations as HTML files for further analysis or sharing.
 
 <p align="center">
-  <img alt="Light" src="https://github.com/KoraySali/Car-Accident-Visualisations/blob/master/Varying%20speed%20visualisation%20fog%20vs%20ice%20accidents.png?raw=true" width="495" height="359">
+  <img alt="Light" src="https://github.com/KoraySali/Car-Accident-Visualisations/blob/master/Varying%20speed%20visualisation%20fog%20vs%20ice%20accidents.png?raw=true" width="550" height="300">
 </p>
 
 # [Project 4: Song Lyric Sentiment Analysis](https://github.com/KoraySali/Song-Lyrics-Sentiment-Visualisations/blob/main/README.md)
