@@ -31,3 +31,13 @@ This portfolio contains descriptions, hyperlinks and images for the projects and
 </p>
 
 # [Project 3: UK Car Accident Visualisations](https://github.com/KoraySali/Car-Accident-Visualisations/blob/master/README.md)
+* Import and preprocess accident data from a CSV file, including handling missing values.
+* Analyse weather conditions and road surface conditions to separate data into two sets: ice-related and fog-related accidents.
+* Create interactive heatmaps for ice-related and fog-related accidents using Folium and Plotly, displaying accident severity over time and speed.
+* Generate marker cluster maps for both types of accidents, with custom marker styles and pop-up information.
+* Calculate and print statistics for the number of accidents, the number of days with accidents, and the average number of accidents per day for ice and fog-related incidents.
+* Save the resulting maps and visualisations as HTML files for further analysis or sharing.
+
+<p align="center">
+  <img alt="Light" src="https://github.com/KoraySali/Car-Accident-Visualisations/blob/master/Varying%20speed%20visualisation%20fog%20vs%20ice%20accidents.png?raw=true" width="495" height="359">
+</p>
