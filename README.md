@@ -55,3 +55,13 @@ This portfolio contains descriptions, hyperlinks and images for the projects and
   <img alt="Light" src="https://github.com/KoraySali/Song-Lyrics-Sentiment-Visualisations/blob/main/Average%20sentiment%20score%20of%20an%20artist%20distributed%20by%20gender.png?raw=true" width="495" height="359">
 </p>
   
+# [Project 5: CIFAR-10 CNN Build](https://github.com/KoraySali/CIFAR10-CNN-Build/blob/main/README.md)
+* Utilises the CIFAR-10 dataset with 60,000 images categorized into 10 classes, comprising 50,000 training images and 10,000 test images.
+* Experiments with different CNN models with various dropout rates, including introducing L2 regularization and batch normalization to mitigate overfitting (Experiments 5, 6, and 7).
+* Demonstrates many model performances with accuracy, loss, and confusion matrix plots for each experiment.
+* Offers visually appealing images showcasing correctly and incorrectly classified images for deeper insights.
+* Implements TensorFlow and Keras for model development and uses NumPy, Matplotlib, and other libraries for data manipulation and visualisation.
+
+<p align="center">
+  <img alt="Light" src="https://github.com/KoraySali/CIFAR10-CNN-Build/blob/main/Capture.PNG?raw=true" width="800" height="150">
+</p>
