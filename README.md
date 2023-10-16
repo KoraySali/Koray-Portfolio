@@ -41,3 +41,17 @@ This portfolio contains descriptions, hyperlinks and images for the projects and
 <p align="center">
   <img alt="Light" src="https://github.com/KoraySali/Car-Accident-Visualisations/blob/master/Varying%20speed%20visualisation%20fog%20vs%20ice%20accidents.png?raw=true" width="495" height="359">
 </p>
+
+# [Project 4: Song Lyric Sentiment Analysis](https://github.com/KoraySali/Song-Lyrics-Sentiment-Visualisations/blob/main/README.md)
+* Utilised Python libraries including glob, pandas, nltk, and gensim to analyse song lyrics.
+* Cleaned text data by removing non-alphanumeric characters and organised it into a DataFrame.
+* Assigned genders and birth years to artists manually based on file names.
+* Preprocessed and lemmatised the lyrics using NLTK.
+* Conducted sentiment analysis on the lyrics and generated word clouds and visualisations to explore the data.
+* Analysed the sentiment scores and word frequency of the word "Love" in artists' lyrics, considering gender.
+* Visualised the average sentiment scores of artists, both overall and by gender.
+
+<p align="center">
+  <img alt="Light" src="https://github.com/KoraySali/Song-Lyrics-Sentiment-Visualisations/blob/main/Average%20sentiment%20score%20of%20an%20artist%20distributed%20by%20gender.png?raw=true" width="495" height="359">
+</p>
+  
